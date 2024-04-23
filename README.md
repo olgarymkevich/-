@@ -15,8 +15,8 @@
 Установить все требования:
 
 pip3 install -r requirements
-Загрузите Selenium WebDriver с https://chromedriver.chromium.org/downloads (выберите версию, совместимую с вашим браузером)
+Загрузить Selenium WebDriver с https://chromedriver.chromium.org/downloads (выбрать версию, совместимую с браузером)
 
-Запустите тесты:
+Запустить тесты:
 
 python -m pytest -v --driver Chrome --driver-path C:/seleniumdriver/chromedriver.exe tests/test_rtc.py
