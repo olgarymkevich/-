@@ -19,4 +19,4 @@ pip3 install -r requirements
 
 Запустить тесты:
 
-python -m pytest -v --driver Chrome --driver-path C:/seleniumdriver/chromedriver.exe tests/test_rtc.py
+python -m pytest -v --driver Chrome --driver-path C:/seleniumdriver/chromedriver.exe  tests/test_rtc.py
