@@ -16,7 +16,7 @@
 
 pip3 install -r requirements
 
-Загрузить Selenium WebDriver с https://chromedriver.chromium.org/downloads (выбрать версию, совместимую с браузером)
+Загрузить Selenium WebDriver с https://chromedriver.chromium.org/downloads (выбрать версию, совместимую с браузером).
 
 Запустить тесты:
 
